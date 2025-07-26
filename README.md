@@ -1,2 +1,32 @@
-# Netflix-EDA-Project
-Data visualization project using the Netflix Titles dataset from Kaggle. Includes data cleaning and insights on content type, rating, duration, release trends, and country-wise distribution using Python (pandas, matplotlib) in Google Colab.
+# Netflix Data Visualization 📊
+
+This project analyzes and visualizes the Netflix Titles Dataset from Kaggle using Python, Pandas, and Matplotlib.
+
+## 🔍 Features
+- Movies vs TV Shows count
+- Ratings distribution
+- Release trends (year-wise)
+- Movie duration histogram
+- Top 10 content-producing countries
+- Combined plot: Movies vs TV Shows over time
+
+## 📂 Files
+- `netflix_titles.csv` – Dataset
+- `.png` image files – Plots
+- `Netflix_Data_Visualizations.pdf` – All plots compiled
+- Python notebook/script for full analysis
+
+## 📎 Dataset Source
+[Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/paramvir705/netflix-dataset)
+
+## 🛠️ Tools Used
+- Google Colab
+- Pandas
+- Matplotlib
+- PIL
+
+## 📌 How to Use
+Clone this repo and open the notebook in Google Colab or Jupyter Notebook.
+
+---
+Made with ❤️ using Python.
