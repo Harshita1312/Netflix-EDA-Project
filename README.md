@@ -1,32 +1,35 @@
-# Netflix Data Visualization 📊
+# 📊 Netflix Data Visualization Project
 
-This project analyzes and visualizes the Netflix Titles Dataset from Kaggle using Python, Pandas, and Matplotlib.
+This project analyzes and visualizes the **Netflix Titles Dataset** from Kaggle using Python, Pandas, and Matplotlib. It focuses on content distribution, ratings, release trends, and geographic insights.
 
-## 🔍 Features
-- Movies vs TV Shows count
-- Ratings distribution
-- Release trends (year-wise)
-- Movie duration histogram
-- Top 10 content-producing countries
-- Combined plot: Movies vs TV Shows over time
+## 🔍 Key Features
+- 📺 Comparison of Movies vs TV Shows
+- 🎯 Ratings distribution (e.g., PG, TV-MA, R)
+- 📈 Year-wise release trends
+- ⏱️ Movie duration histogram
+- 🌍 Top 10 content-producing countries
+- 📊 Combined subplot: Movies vs TV Shows over time
 
-## 📂 Files
-- `netflix_titles.csv` – Dataset
-- `.png` image files – Plots
-- `Netflix_Data_Visualizations.pdf` – All plots compiled
-- Python notebook/script for full analysis
+## 📂 Repository Contents
+- `netflix_titles.csv` – Dataset file
+- `.png` files – Individual visualizations
+- `Netflix_Data_Visualizations.pdf` – Combined report of all plots
+- Python notebook / script – Full analysis code
 
 ## 📎 Dataset Source
-[Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/paramvir705/netflix-dataset)
+🔗 [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/paramvir705/netflix-dataset)
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 - Google Colab
 - Pandas
 - Matplotlib
-- PIL
+- PIL (Python Imaging Library)
 
-## 📌 How to Use
-Clone this repo and open the notebook in Google Colab or Jupyter Notebook.
+## 🚀 How to Use
+1. Clone or download this repository.
+2. Open the notebook in Google Colab or Jupyter Notebook.
+3. Run the code to generate and explore visual insights.
 
 ---
+
 Made with ❤️ using Python.
